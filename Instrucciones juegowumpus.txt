@@ -1,0 +1,13 @@
+Instrucciones:
+
+1) El zip tiene los archivos fuente realizados con eclipse.
+
+2) En el zip general fuera está el jar donde se puede ejecutar mediante el comando:
+
+java -jar juegowumpus.jar
+
+3) Se puede visualizar el mapa para seguir la traza
+	- @: El monstruo
+	- 0: El pozo
+	- $: El oro
+	- &: El cazador
